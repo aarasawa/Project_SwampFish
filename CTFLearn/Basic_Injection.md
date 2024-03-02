@@ -1,4 +1,4 @@
-# Basic Injection 
+# Basic Injection - Easy
 
 ### Description: Use SQL injection to leak the database and capture the flag.
 
@@ -9,4 +9,6 @@
 ### 2. 
 > Initially, I was having trouble coming up with an approach to the problem. Since I overlooked how any input into the 
 > search box gets into the SQL query already. The first couple minutes I was trying to input something like SELECT * FROM 
-> webfour. 
+> webfour. Realizing I did not understand how to inject the query well enough, I searched through W3School. I then realized
+> queries get put into the format **'$input'**. This mirrored the example in W3S where you can submit a query in the format 
+> **something OR "" = "**.
