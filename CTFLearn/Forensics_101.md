@@ -9,6 +9,13 @@
 
 ### 2. 
 > File: prints information on the file including its type, extension, size, color array, etc. \
-> Output from File: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16,
->                   progressive, precision 8, 236x218, components 3
-> 
+> Results from File: no flag \
+> Exiftool: reads and writes metadata in files \
+> Output from Exiftool: no flag in metadata \
+> XXD: tool to dump hexadecimal format of the file \
+> Output from xxd: FLAG! \
+> strings: prints strings at least 4 characters long from a file \
+> Output from strings: FLAG!
+
+### 3.
+> Flag can be obtained from both running xxd and strings command on the file. 
