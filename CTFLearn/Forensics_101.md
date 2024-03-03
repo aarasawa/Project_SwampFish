@@ -9,6 +9,6 @@
 
 ### 2. 
 > File: prints information on the file including its type, extension, size, color array, etc. 
-> Output from File: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16,\
+> \Output from File: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16,
 >                   progressive, precision 8, 236x218, components 3
 > 
