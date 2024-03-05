@@ -1,5 +1,5 @@
-# CyberWriteUps
+# Project_SwampFish
 
-To track writeups for problems on various resources that I am using to learn cybersecurity. 
+To track writeups and solutions for various for-fun problem solving stuffs. Usually username: @SwampFish
 
 No flags included in solutions, just my process for arriving at a solution.
