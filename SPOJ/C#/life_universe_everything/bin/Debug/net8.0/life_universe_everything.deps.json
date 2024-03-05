@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "life_universe_everything/1.0.0": {
+        "runtime": {
+          "life_universe_everything.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "life_universe_everything/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
