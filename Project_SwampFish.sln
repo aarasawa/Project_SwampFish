@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SPOJ", "SPOJ", "{4D6EE7EC-0ECA-4501-AE07-2ECF506A564A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C#", "C#", "{A21E9687-B8B5-4688-A6E9-AF6DA41D37DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "life_universe_everything", "SPOJ\C#\life_universe_everything\life_universe_everything.csproj", "{6F13973F-5037-4BBF-8FE8-C4401BFE9F2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F13973F-5037-4BBF-8FE8-C4401BFE9F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F13973F-5037-4BBF-8FE8-C4401BFE9F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F13973F-5037-4BBF-8FE8-C4401BFE9F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F13973F-5037-4BBF-8FE8-C4401BFE9F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A21E9687-B8B5-4688-A6E9-AF6DA41D37DA} = {4D6EE7EC-0ECA-4501-AE07-2ECF506A564A}
+		{6F13973F-5037-4BBF-8FE8-C4401BFE9F2D} = {A21E9687-B8B5-4688-A6E9-AF6DA41D37DA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA1E0990-F6C1-4917-8A2D-F8D64433284F}
+	EndGlobalSection
+EndGlobal
