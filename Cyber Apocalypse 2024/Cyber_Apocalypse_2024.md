@@ -1,0 +1,3 @@
+# Cyber Apocalypse 2024 + Afterparty
+
+> ## This is the my first time participating in a CTF event there were multiple categories, however, I have not worked on the other types of CTFs to work on them. I have the most experience in general cryptography and simple web application exploits. Including 1 misc challenge which just involved a tutorial and interacting with a netcat server to get the flag. 
