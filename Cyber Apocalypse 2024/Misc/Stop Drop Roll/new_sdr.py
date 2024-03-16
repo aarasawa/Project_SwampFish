@@ -1,6 +1,6 @@
 from pwn import *
 
-p = remote('94.237.63.128', 48219)
+p = remote('83.136.252.32', 46312)
 
 p.sendlineafter(b'(y/n) ', b'y')
 p.recvline()
