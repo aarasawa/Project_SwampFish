@@ -24,4 +24,19 @@
 import base64
 
   base64.b64encode() #encode a string 
+
 ```
+
+#### Bytes and Big Integers
+> Common way to convert characters into ordinal bytes of the message is to convert to hex and concatenate. Basically the flow is characters -> ascii bytes -> hex bytes (base16)
+
+``` python
+#using pycryptodome library
+from Crypto.Util.number import *
+
+  bytes_to_long() # convert byte string into long integer
+  long_to_bytes() # inverse operation of the above method
+```
+
+#### XOR Starter
+> 
