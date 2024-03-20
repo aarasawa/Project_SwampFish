@@ -39,4 +39,11 @@ from Crypto.Util.number import *
 ```
 
 #### XOR Starter
+> Returns 0 if bits match, 1 if they do not. Pwntools has a xor() function as well.
+
+``` python
+num1 ^ num2
+```
+
+#### XOR Properties
 > 
