@@ -7,3 +7,13 @@
 ``` python
   bytes_data = string.encode('utf-8')
 ```
+
+#### Decode the bytes to ASCII
+``` python
+  ascii_string = byte_data.decode('utf-8')
+```
+
+#### Perform XOR byte by byte
+``` python
+  xored_bytes = bytes([a ^ b for a, b in zip(bytes_data, string_bytes)])
+```
