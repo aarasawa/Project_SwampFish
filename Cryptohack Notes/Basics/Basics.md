@@ -46,4 +46,4 @@ num1 ^ num2
 ```
 
 #### XOR Properties
-> 
+> The order of XOR operations are not important -> commutative. Chains of XOR operations can be carried out without order -> associative. Identity for XOR is 0, so XORing by 0 does nothing. XORing something by itself returns 0. 
