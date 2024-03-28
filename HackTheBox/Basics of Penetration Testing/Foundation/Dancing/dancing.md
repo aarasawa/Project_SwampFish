@@ -5,6 +5,7 @@
 #### Machine Tags: protocols, SMB, reconnaissance, anonymous/guest access
 
 #### Description
+  > Finding shares on remote computers and exfiltrating by taking advantage of guest/anonymous access.  
 
 #### Notes
   > #### **Server Message Block (SMB)** : Port 445
@@ -14,3 +15,7 @@
 
   > #### **Enumeration**
   > <code>sudo nmap -sV {ip}</code>, -sV, determines service/version info. 
+  > <code>smbclient</code> is a script that can help use to access a remote SMB share, if there is authentication required then it will prompt you for some. If no username is given, it defaults to your local username. 
+
+  > #### **Foothold**
+  > We can try to login to each of the shares using the format <code>smbclient \\\\{ip}\\{share}</code>.
