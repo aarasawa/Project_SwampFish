@@ -5,7 +5,7 @@
 #### Machine Tags: redis, vulnerability assessment, databases, recon, anonymous/guest access
 
 #### Description
-  > 
+  > Learned the tools for enumerating, connecting and dumping information from a Redis database.
 
 #### Notes
   > #### **Enumeration**
