@@ -6,8 +6,8 @@ from base64 import b64decode
 
 ALPHABET = string.ascii_letters + string.digits + '~!@#$%^&*'
 
-ENCRYPTED_PASSWORD = 't*!zGnf#LKO~drVQc@n%oFFZyvhvGZq8zbfXKvE1#*R%uh*$M6c$zrxWedrAENFJB7xz0ps4zh94EwZOnVT9&h'
-ENCRYPTED_FLAG = b'GKLlVVw9uz/QzqKiBPAvdLA+QyRqyctsPJ/tx8Ac2hIUl8/kJaEvHthHUuwFDRCs'
+ENCRYPTED_PASSWORD = '...'
+ENCRYPTED_FLAG = '...'
 
 def generate_masterkey(password: str) -> bytes:
     bitstring = ''
