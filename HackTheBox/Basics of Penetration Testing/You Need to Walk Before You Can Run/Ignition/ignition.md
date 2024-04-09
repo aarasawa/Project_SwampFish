@@ -3,11 +3,11 @@
 #### Difficulty: <code>Very Easy</code>
 
 #### Machine Tags:
-  Common Applications
-  Magneto
-  Reconnaissance
-  Website Structure Discovery
-  Weak Credentials
+  Common Applications  
+  Magneto  
+  Reconnaissance  
+  Website Structure Discovery  
+  Weak Credentials  
 
 #### Description
   Enumerate the target, find the hidden page, login, and find the flag. 

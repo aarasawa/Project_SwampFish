@@ -3,18 +3,18 @@
 #### Difficulty: <code>Very Easy</code>
 
 #### Machine Tags
-  WinRM
-  Custom Applications
-  Protocols
-  XAMPP
-  SMB
-  Responder
-  PHP
-  Reconnaissance
-  Password Cracking
-  Hash Capture
-  Remote File Inclusion
-  Remote Code Execution
+  WinRM  
+  Custom Applications  
+  Protocols  
+  XAMPP  
+  SMB  
+  Responder  
+  PHP  
+  Reconnaissance  
+  Password Cracking  
+  Hash Capture  
+  Remote File Inclusion  
+  Remote Code Execution  
 
 #### Description
   Learn about File Inclusion vulnerability for webpages served on Windows machines with NetNTLMv2. Responder and John the Ripper will be used. 

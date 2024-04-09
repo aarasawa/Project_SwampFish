@@ -2,7 +2,13 @@
 
 #### Difficulty: <code>Very Easy</code>
 
-#### Machine Tags: vulnerability assessment, databases, mysql, sql, recon, weak credentials
+#### Machine Tags: 
+  vulnerability assessment  
+  databases  
+  mysql  
+  sql  
+  recon  
+  weak credentials  
 
 #### Description
   Understanding structure of a database and learning how to traverse and gather information from a database. 

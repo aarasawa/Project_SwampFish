@@ -3,11 +3,11 @@
 #### Difficulty:<code>Very Easy</code>
 
 #### Machine Tags:
-  Custom Applications
-  NodeJS
-  Reconnaissance
-  Remote Code Execution
-  Server Side Template Injection (SSTI)
+  Custom Applications  
+  NodeJS  
+  Reconnaissance  
+  Remote Code Execution  
+  Server Side Template Injection (SSTI)  
 
 #### Description
   Learn of Server-Side Template Injection on Handlebars, a template engine in NodeJS.
